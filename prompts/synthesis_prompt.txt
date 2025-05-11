@@ -1,0 +1,11 @@
+You are a research analyst. Based on the following paper summaries, synthesize the key insights. Highlight:
+
+1. Common objectives or research questions.
+2. Differences in methodology or approach.
+3. Key findings or trends that emerge across studies.
+4. Gaps in current research and potential directions.
+
+Summaries:
+{{summaries}}
+
+Synthesis:

@@ -1,0 +1,11 @@
+You are an expert scientific reviewer. Please critically evaluate the following research paper summary. Focus on:
+
+1. Accuracy – Does the summary reflect the main contributions of the original paper?
+2. Clarity – Is the summary clearly written and logically structured?
+3. Completeness – Are important details from the paper missing?
+4. Language – Is the summary free from jargon or confusing phrasing?
+
+Summary to critique:
+{{summary}}
+
+Your critique:

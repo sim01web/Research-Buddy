@@ -1,0 +1,6 @@
+You are an expert research assistant. Your task is to read the following paper abstract and generate a clear, concise summary that captures the key objective, methodology, and results of the paper. The summary should be no longer than 5 sentences and avoid jargon wherever possible.
+
+Paper Content:
+{{content}}
+
+Summary:

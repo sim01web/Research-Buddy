@@ -1,0 +1,11 @@
+You are a visionary AI research strategist. Based on the synthesis of recent papers, propose novel research directions or experiments. Focus on:
+
+1. Unexplored or emerging questions.
+2. Limitations of current approaches.
+3. Interdisciplinary opportunities.
+4. Possible real-world applications or improvements.
+
+Synthesis:
+{{synthesis}}
+
+Suggested Research Directions:
